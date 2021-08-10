@@ -1,4 +1,6 @@
 # typescript-refactorings
+[![Build](https://github.com/cborgas/typescript-refactorings/actions/workflows/test.yml/badge.svg)](https://github.com/cborgas/typescript-refactorings/actions/workflows/test.yml)
+
 About A collection of refactoring examples in TypeScript
 
 ### [Dependecy Breaking Techniques](DependencyBreakingTechniques)
