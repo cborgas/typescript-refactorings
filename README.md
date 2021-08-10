@@ -14,7 +14,7 @@ The only requirement needed to run the code is [Deno](https://deno.land/)
 Homebrew (Mac):
 
 ```bash
-$ brew install deno
+brew install deno
 ```
 
 Other options can be found at [here](https://deno.land/manual@v1.12.1/getting_started/installation)
